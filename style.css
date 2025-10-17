@@ -6,8 +6,8 @@ body {
 }
  header {
   background: #f4f4f4;
-  padding: 60px 15px;
   text-align: center;
+  width: 100%;
 }
 .wan{
   color:  #003049;
